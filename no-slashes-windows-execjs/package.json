@@ -1,0 +1,11 @@
+{
+  "name": "no-slashes-windows-execjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
